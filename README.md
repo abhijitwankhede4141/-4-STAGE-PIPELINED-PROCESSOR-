@@ -61,3 +61,6 @@ ADD: Adds two registers and stores the result in a register.
 SUB: Subtracts one register from another and stores the result.
 LOAD: Loads data from memory into a register.
 
+# output:
+
+![Image](https://github.com/user-attachments/assets/a681d125-4cb6-4126-a5a5-b6d4c815a090)
